@@ -1,1 +1,1 @@
-This is a normal file changed by Alice branch
+This is a normal file changed by Bob in feature2
